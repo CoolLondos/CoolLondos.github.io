@@ -21,4 +21,5 @@ reloadnumber()
 
 function reloadnumber() {
 document.getElementById('test').innerHTML = "Number: " + count;
+console.log(count)
 };
