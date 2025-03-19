@@ -5,6 +5,7 @@ body {
 .navbar {
   overflow: hidden;
   padding: 0px 2px;
+  text-align: center;
 }
 
 .navbar a {
@@ -12,14 +13,17 @@ body {
   color: white;
   background-color: gray;
   padding: 0px 10px;
+  text-align: center;
 }
 
 .navbar a:hover {
   background-color: lightgray;
   font-size: 20px;
   padding: 0px 12px;
+  text-align: center;
 }
 
 .navbar a.active {
   background-color: darkgreen;
+  text-align: center;
 }
